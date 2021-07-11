@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "Let's start React!"
 author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+categories: [ React, tutorial ]
+image: assets/images/react.png
 featured: true
 hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies
 
 As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
 
